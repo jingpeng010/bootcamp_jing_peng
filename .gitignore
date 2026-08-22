@@ -10,3 +10,4 @@ __pycache__/
 .env
 # Ignore OS files
 .DS_Store
+.vscode/
